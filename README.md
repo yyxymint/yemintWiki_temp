@@ -1,6 +1,6 @@
 # yemint 위키 가오픈
 
-||<img src="KakaoTalk_20230908_144244334.jpg" height="400" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>|
+||<img src="KakaoTalk_20230908_144244334.jpg" height="200" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>|
 |:--------:|:--------|
 | **이름** | 황예찬 |
 | **출생** | 1998년 9월 11일 <br> 경상북도 울진군|
