@@ -27,7 +27,7 @@ H엔터테인먼트 소속 연예인으로 유튜브, 프로그래밍, 수학 �
 # <b id="headnote2">[2](#h2)</b>. 학업
 
 <img src="detail_icon.png" height="17" title="yemint위키 상세내용.png" alt="detail"></img>
-자세한 내용은 [황예찬/학업](https://github.com/yyxymint/yemintWiki/blob/master/%ED%99%A9%EC%98%88%EC%B0%AC-%ED%95%99%EC%97%85.md) 문서를 참고하십시오.
+자세한 내용은 [황예찬/학업](https://github.com/yyxymint/yemintWiki_temp/blob/main/%ED%99%A9%EC%98%88%EC%B0%AC-%ED%95%99%EC%97%85.md) 문서를 참고하십시오.
 
 # 3. 연예 활동
 
