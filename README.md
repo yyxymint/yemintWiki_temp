@@ -27,12 +27,12 @@ H엔터테인먼트 소속 연예인으로 유튜브, 프로그래밍, 수학 �
 # <b id="headnote2">[2](#h2)</b>. 학업
 
 <img src="detail_icon.png" height="17" title="yemint위키 상세내용.png" alt="detail"></img>
-자세한 내용은 [황예찬/학업](https://github.com/codeInMint/yemintWiki/blob/master/%ED%99%A9%EC%98%88%EC%B0%AC-%ED%95%99%EC%97%85.md) 문서를 참고하십시오.
+자세한 내용은 [황예찬/학업](https://github.com/codeInMint/yemintWiki/blob/main/%ED%99%A9%EC%98%88%EC%B0%AC-%ED%95%99%EC%97%85.md) 문서를 참고하십시오.
 
 # 3. 연예 활동
 
 <img src="detail_icon.png" height="17" title="yemint위키 상세내용.png" alt="detail"></img>
-자세한 내용은 [황예찬/연예 활동](https://github.com/codeInMint/yemintWiki/blob/master/%ED%99%A9%EC%98%88%EC%B0%AC-%EC%97%B0%EC%98%88%20%ED%99%9C%EB%8F%99.md) 문서를 참고하십시오.
+자세한 내용은 [황예찬/연예 활동](https://github.com/yyxymint/yemintWiki_temp/blob/main/%ED%99%A9%EC%98%88%EC%B0%AC-%EC%97%B0%EC%98%88%20%ED%99%9C%EB%8F%99.md) 문서를 참고하십시오.
 
 # 4. 영상 활동
 2011부터 2016년까지 울진중~울진고 시절 동안 독학한 영상편집 기술로 독보적인 영상작가 이미지를 구축하였고 당시 울진 학생들 내에서 상당한 유명세를 타게되었다. 영상들이 여전히 페이스북에 남아있기 때문에 시간이 많이 지난 지금도 '오랜만에 영상보고 그때 생각났다'는 등의 친구들의 메시지가 종종 온다고. 
